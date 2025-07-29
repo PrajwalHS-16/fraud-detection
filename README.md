@@ -81,10 +81,7 @@ fraud-detector-github/
 └── README.md
 ```
 
-## Screenshots
 
-![Upload and Analyze](docs/screenshot-upload.png)
-![Risk Distribution](docs/screenshot-risk.png)
 
 ## License
 
@@ -92,4 +89,4 @@ MIT License
 
 ---
 
-**Made
+
